@@ -3,5 +3,6 @@ Git Hub
 
 git init - make it avvible for GitHub
 git remote add origin (link of github)
+git add -A -for adding on the web GitHub everytghing
 git commit -m " blabla"
 git push origin master
